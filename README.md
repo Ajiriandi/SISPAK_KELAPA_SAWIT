@@ -1,4 +1,4 @@
-# Sistem Pakar Diagnosis Penyakit Ibu Hamil Menggunakan Metode Forward Chaining dan Certainty Factor
+# Sistem Pakar Diagnosis Penyakit Tanaman Kelapa Sawit Menggunakan metode Certainty Factor
 
 
 ## Gunakan Template
@@ -45,4 +45,4 @@
 
 ## Dukungan atau Kontak
 
-Untuk informasi lebih lanjut atau bantuan, hubungi melalui email: bimbingin.id@gmail.com or sandidikaputra@gmail.com.
+Untuk informasi lebih lanjut atau bantuan, hubungi melalui email: ajiriandikurniawan42@gmail.com
